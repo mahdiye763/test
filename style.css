@@ -1,0 +1,27 @@
+*{background-color: DFD0B8;
+font-family:Lugrasimo;}
+
+ header {font-size: 2rem;
+
+background-color: rgb(148, 137, 121);}
+.icon{
+    background-color: rgb(60, 91, 111);
+    height: 2rem;
+    width: 2rem;
+}
+input[type="search"]{
+    /* font-size: 2rem; */
+    height: 40px;
+    width: 60%;
+}
+img{height: 250px;
+width: 200px;}
+.icon2{
+   size: 2px;
+}
+ footer{
+    background-color: rgb(21, 52, 72);
+    color: rgb(223, 208, 184);
+    font-size: 1.2rem;
+    font-weight: 300;
+ }
